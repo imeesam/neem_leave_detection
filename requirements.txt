@@ -1,5 +1,5 @@
-flask
-gunicorn
+fastapi
+uvicorn
 tensorflow
-Pillow
+pillow
 numpy
