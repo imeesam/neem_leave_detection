@@ -1,5 +1,4 @@
-fastapi
-uvicorn
-pillow
+gradio
+tensorflow
+Pillow
 numpy
-tensorflow-cpu==2.13.0
